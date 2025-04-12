@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+.header{
+    margin-top: 0px;
+    background: hsl(222.2, 84%, 4.9%);
+    height: 50px;
+}
+.logo{
+    color: #0dc8c5; 
+    background-image: linear-gradient(45deg, #0dc8c5 , #1e205a 25%, #2975b9 50%, #7456e3 75%, #35cd87 100%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    /* margin-top: 5px; */
+}
